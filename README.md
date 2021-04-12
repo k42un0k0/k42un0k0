@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=k42un0k0&color=green)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=k42un0k0&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k42un0k0" />
+</a>
+
 <!--
 **k42un0k0/k42un0k0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
